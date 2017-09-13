@@ -10,6 +10,9 @@ This repository is meant to contain a master list of everything I'm working on p
 #### [→ Humanist Min](https://github.com/feathersdesign/HumanistMin)
 Humanist Min is a design language/framework being developed (albeit very slowly) by us at FeathersDesign.
 
+#### [→ MKRhere/Stuff](https://github.com/MKRhere/Stuff)
+I'll post some design templates and stuff in here. Unlicensed and Public Domain.
+
 ## Programming
 > I grew up with computers. My first was a Pentium 4 PC in 2002. Looking back, I wish I'd learnt more programming, but now here I am.
 
