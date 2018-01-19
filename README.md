@@ -13,11 +13,14 @@ Humanist Min is a design language/framework being developed (albeit very slowly)
 #### [→ MKRhere/Stuff](https://github.com/MKRhere/Stuff)
 I'll post some design templates and stuff in here. Unlicensed and Public Domain.
 
-## Programming
+## Programming Projects
 > I grew up with computers. My first was a Pentium 4 PC in 2002. Looking back, I wish I'd learnt more programming, but now here I am.
 
-#### [→ up](https://github.codefeathers/up-serve)
-> `up` is a command line application that creates nginx server blocks quickly with a single command.
+#### [→ up-serve](https://github.com/codefeathers/up-serve)
+> `up-serve` is a command line application that creates nginx server blocks quickly with a single command.
+
+#### [→ WordBox](https://github.com/codefeathers/WordBox)
+> `WordBox` is a modern development and deployment environment for WordPress and PHP, written in Node. It runs an express server in place of Apache.
 
 ## Science
 > I've always loved science whether or not I have been an active participant.
