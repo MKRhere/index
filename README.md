@@ -22,6 +22,9 @@ I'll post some design templates and stuff in here. Unlicensed and Public Domain.
 #### [→ WordBox](https://github.com/codefeathers/WordBox)
 > `WordBox` is a modern development and deployment environment for WordPress and PHP, written in Node. It runs an express server in place of Apache.
 
+#### [→ Teza](https://github.com/outfocusonline/teza-api)
+> This is a very interesting project. `Teza` is a dynamic API server. It provides endpoints that creates and destroys other endpoints. In a way this is like a headless-headless-CMS. You can connect a real headless CMS to it, or any other content source, like a Telegram bot.
+
 ## Science
 > I've always loved science whether or not I have been an active participant.
 
